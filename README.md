@@ -1,4 +1,4 @@
-The GitHub repository for the NeuroBox app hosts the source code and resources for a Windows application I’ve been working on. NeuroBox provides a user-friendly interface and options for interacting with Ollama and GGUF models from Hugging Face. Currently, the app is available for download only as a Windows installer package named "neurobox_0.1.0_x64_en-US".
+The GitHub repository for the NeuroBox app hosts the source code and resources for a Windows application I’ve been working on. NeuroBox provides a user-friendly interface and options for interacting with Ollama and GGUF models from Hugging Face. Currently, the app is available for download only as a Windows installer package named "neurobox_0.1.0_x64_en-US" and "neurobox_0.1.0_x64-setup.exe".
 
 ### Key Features
 - **Purpose**: NeuroBox simplifies the process of using Ollama, an application that allows users to run large language models (LLMs) locally, and GGUF models, which are optimized binary-format models from Hugging Face designed for efficient inference.
