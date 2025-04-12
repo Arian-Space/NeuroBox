@@ -1,3 +1,8 @@
+# Neurobox
+---
+![LinkedIn NeuroBox](https://github.com/user-attachments/assets/d67647e4-54ab-4ff1-8672-22ee728e47df)
+
+
 The GitHub repository for the NeuroBox app hosts the source code and resources for a Windows application I’ve been working on. NeuroBox provides a user-friendly interface and options for interacting with Ollama and GGUF models from Hugging Face. Currently, the app is available for download only as a Windows installer package named "neurobox_0.1.0_x64_en-US" and "neurobox_0.1.0_x64-setup.exe".
 
 ### Key Features
